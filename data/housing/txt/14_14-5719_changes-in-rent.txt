@@ -1,0 +1,220 @@
+District of Columbia Municipal Regulations
+ 
+5719
+CHANGES IN RENT
+5719.1
+(a)
+Rent Phase-In. If a tenant’s monthly rent increases by more than the 
+greater of ten percent (10%) or twenty-five dollars ($25) purely as a result 
+of RAD conversion, the rent increase will be phased in over a period of 
+five (5) years. The tenants that will be affected by RAD rent calculation at 
+the time of conversion are those that are currently paying flat rent, i.e., 
+rent that is not calculated based on income. If a tenant was previously 
+paying flat rents, the change in rent (now based on 30% of income) may 
+have to be phased in.
+(b)
+Five Year Phase-in Formula:
+(1)
+Year 1: Any recertification (interim or annual) performed prior to 
+the second annual recertification after conversion – twenty percent 
+(20%) of difference between most recently paid TTP or flat rent 
+and the Calculated RAD TTP
+(2)
+Year  2:  Year  2  annual  recertification  and  any  interim 
+recertification prior to Year 3 annual recertification – twenty-five 
+percent (25%) of difference between most recently paid TTP and 
+the Calculated RAD TTP
+(3)
+Year  3:  Year  3  annual  recertification  and  any  interim 
+recertification prior to Year 4 annual recertification – thirty-three 
+percent (33%) of difference between most recently paid TTP and 
+the Calculated RAD TTP
+(4)
+Year  4:  Year  4  annual  recertification  and  any  interim 
+recertification prior to Year 5 annual recertification – fifty percent 
+(50%) of difference between most recently paid TTP and the 
+Calculated RAD TTP
+(5)
+Year 5 annual recertification and all subsequent recertifications – 
+Full Calculated RAD TTP
+(c)
+Once the Calculated RAD TTP is equal to or less than the previous TTP, 
+the phase-in ends and tenants will pay full TTP from that point forward.
+(d)
+Rent phase-in example:
+Housing
+14 DCMR § 5719
+District of Columbia Municipal Regulations
+ 
+(1) Example of rent increase that does not require a phase in:
+ 
+(2a) Example of rent increase that does require a phase in:
+  
+Rent at Last 
+Recertification (TTP at 
+last recertification)
+$100
+Rent Calculation at 
+RAD Conversion 
+(RAD TTP)
+$300
+Increase in Rental 
+Amount
+$200
+Phase In Required?
+(see table below)
+Yes
+(2b)
+Year 1
+Prior TTP at last recertification: $100
+                              
+New TTP as a result of conversion: $300
+                                      
+Differential requiring phase-in: $200 
+Amount  to  be  phased-in  during  Year  1:  20%  of  differential 
+between New TTP as a result of conversion and TTP at last 
+recertification
+Rent at Last 
+Recertification 
+$900
+Rent Calculation at 
+RAD Conversion
+$990
+Increase in Rental 
+Amount
+$90
+Phase In Required?
+No
+DCHA-Approved Five Year Phase In Period
+Housing
+14 DCMR § 5719
+District of Columbia Municipal Regulations
+ 
+Year 2
+Prior TTP at last recertification: $140
+                                       
+New TTP as a result of conversion: $300
+                                       
+Differential requiring phase-in: $160 
+Amount  to  be  phased-in  during  Year  2:  25%  of  differential 
+between New TTP as a result of conversion and TTP at last 
+recertification
+Year
+Most Recent TTP + Increase
+New 
+Rent
+2
+Step 1: $300 -$140 = $160
+Step 2: $140 + ($160 x .25) = 
+$180
+$180
+Year 3
+Prior TTP at last conversion: $180
+New TTP as a result of conversion: $300
+Differential requiring phase-in: $120 
+Amount  to  be  phased-in  during  Year  3:  33%  of  differential 
+between New TTP as a result of conversion and TTP at last 
+recertification
+Year
+Most  Recent  TTP  + 
+Increase
+New 
+Rent
+3
+Step  1:  $300  -$180  = 
+$120
+Step  2:  $180  +  ($120 
+x .33) = $219.6
+$219.6
+Housing
+14 DCMR § 5719
+District of Columbia Municipal Regulations
+ 
+Year 4
+Prior TTP at last conversion: $219.6
+New TTP as a result of conversion: $300
+Differential requiring phase-in: $80.4 
+Amount  to  be  phased-in  during  Year  4:  50%  of  differential 
+between New TTP as a result of conversion and TTP at last 
+recertification
+Year
+Most  Recent  TTP  + 
+Increase
+New 
+Rent
+4
+Step  1:  $300  -$219.6  = 
+$80.4
+Step 2: $219.6 + ($80.4 
+x .50) = $259.8
+$259.8
+Year  5  and  all  subsequent  recertifications:  Tenant  pays  full 
+calculated RAD TTP
+5719.2 
+Any changes in Tenant Rent shall be stated in a special supplement to the lease, 
+which shall, upon issuance, become a part of the dwelling lease. The special 
+supplement to the lease shall constitute the tenants thirty (30) days’ written notice 
+of an increase in Tenant Rent.  The family shall be provided a copy of the special 
+supplement to the lease.
+5719.3 
+All changes in Tenant Rent, whether after an interim or regular recertification, 
+shall be implemented in accordance with 14 DCMR §§ 6118, 6119, and this 
+chapter.
+5719.4 
+In properties where utilities and other essential services are supplied to the tenant 
+by the Owner Tenant Rent payable to DCHA under the dwelling lease shall be the 
+same as total tenant payment.
+5719.5 
+Tenant Rent shall be computed after both annual income and adjusted income 
+have been verified.
+5719.6 
+The tenant shall receive retroactive credit to credit an administrative error.
+5719.7 
+Tenants occupying property for a portion of a month at the time of move-in shall 
+be charged a pro-rata share of the full monthly rate determined by DCHA.
+5719.8
+Allowances and special deductions:
+Housing
+14 DCMR § 5719
+District of Columbia Municipal Regulations
+ 
+(a)
+In properties where tenants are responsible for paying for their own utility 
+bills,  the  utility  allowance  shall  be  subtracted  from  the  total  tenant 
+payment to determine the Tenant Rent payable to DCHA. If the Tenant 
+Rent resulting from the subtraction of the utility allowance from the total 
+payment is negative, DCHA shall send a monthly check in the amount of 
+the difference to the tenant.
+(b)
+At Redeveloped Properties or Service Rich Properties, as defined in  14 
+DCMR Section 6113, which an Association Fee is assessed, residents at 
+such properties may be required to pay an amount calculated to equal the 
+Association Fee attributable to the unit and shall be granted an allowance 
+reflecting  the  Association Fee  payment.  The  allowance  shall  be 
+subtracted from the Tenant Rent to determine the tenant payment as 
+follows:
+(1)
+Any utility allowance shall be deducted from the Tenant Rent first. 
+The allowance for the Association Fee shall be deducted from any 
+remaining  positive  amount.  If  the  deduction  of  the  utility 
+allowance results in a negative rent there shall be no charge for an 
+Association  Fee  and  no  deduction  for  the  Association  Fee 
+allowance.  If  the  deduction  of  the  Association  Fee  allowance 
+results in a negative amount, the required Association Fee payment 
+from the tenant and its associated allowance shall be reduced so 
+that the Tenant Rent is zero.  
+(2)
+If the tenant fails to pay the Association Fee on time, the fee shall 
+be converted to rent, not to exceed thirty percent (30%) of adjusted 
+income, when added to the monthly rent, for the month in which 
+the fee was paid.
+(3)
+If the Association Fee is paid after entry of judgment as part of the 
+payment required to avoid eviction, the fee shall be recorded as the 
+Association Fee, and the ledger shall be updated to reflect the 
+tenant’s payments.
+SOURCE:  Final Rulemaking at 64 DCR 12956 (December 22, 2017); as amended by Final Rulemaking published 
+at 66 DCR 6831 (June 7, 2019). 
+Housing
+14 DCMR § 5719
+

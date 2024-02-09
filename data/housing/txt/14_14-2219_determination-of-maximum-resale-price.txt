@@ -1,0 +1,87 @@
+District of Columbia Municipal Regulations
+ 
+2219
+DETERMINATION OF MAXIMUM RESALE PRICE 
+2219.1
+The Maximum Resale Price (“MRP”) shall be equal to the greater of:
+(a)
+The original purchase price during the first year of ownership, or (for all 
+subsequent  years)  the  Maximum  Resale  Price  of  the  previous  year, 
+multiplied by the annual rate of change in the MFI over a ten year period 
+starting with the first MFI published by HUD after the purchase of the 
+Inclusionary Unit by the Inclusionary Unit Owner.  The resulting formula 
+for the new Maximum Resale Price in any given year “n” is therefore 
+MRPn = MRPn-1 + (MRPn-1 x Fn) (“Formula”), where:
+(1)
+n  =  is  the  current  MFI  year  starting  from  the  most  recent 
+publication of the MFI by HUD; and
+(2)
+Fn = the rate of appreciation of the current MFI of any given year 
+“n.”  Fn is calculated by determining the ten year compounded 
+annual growth rate of the MFI; or
+(b)
+The maximum purchase price for the same unit type from the current 
+published Maximum Price and Purchase Schedule as of the date of the 
+Notice of Availability.
+2219.2
+Upon the submission of a Notice of Availability by an Inclusionary Unit Owner to 
+DHCD, the Maximum Resale Price may be adjusted for the value of all the 
+Eligible Capital Improvements and Eligible Replacement and Repair Costs made 
+to  the  property  during  that  Inclusionary  Unit  Owner’s  ownership  of  the 
+Inclusionary Unit to the extent they are permanent in nature and add to the market 
+value of the property at the percentage of cost indicated:
+(a)
+Eligible Capital Improvements, which shall be valued at one hundred 
+percent (100%) of reasonable cost, as determined by DHCD, and
+(b)
+Eligible Replacement and Repair Costs, which shall be valued at fifty 
+percent (50%) of reasonable cost, as determined by DHCD. 
+2219.3
+The  Owner  of  a  For  Sale  Inclusionary  Unit  subject  to  an  Inclusionary 
+Development Covenant recorded prior to the effective date of these regulations 
+may choose to be subject to the terms of § 2219.1 effective as of 
+(a) 
+The recordation date of the Inclusionary Development Covenant; or
+(b) 
+The date of submission of the Notice of Availability, depending on which 
+time will result in a higher Maximum Resale Price.  
+Housing
+14 DCMR § 2219
+District of Columbia Municipal Regulations
+ 
+2219.4
+Ineligible Costs shall not be considered in determining the value of Eligible 
+Capital Improvements and Eligible Replacement and Repair Costs. 
+2219.5
+The  value  of  improvements  may  be  determined  by  DHCD  based  upon 
+documentation provided by the Inclusionary Unit Owner or, if not provided, upon 
+a standard value established by DHCD.
+2219.6
+DHCD may disallow an Eligible Capital Improvement or Eligible Replacement 
+and Repair Cost if DHCD finds that the improvement diminished or did not 
+increase the fair market value of the Inclusionary Unit. 
+2219.7
+DHCD may reduce the value of an improvement claimed by the Inclusionary Unit 
+Owner if there is evidence of abnormal physical deterioration of, or abnormal 
+wear and tear to, the improvement.
+2219.8
+The Owner shall permit a representative of DHCD to inspect the Inclusionary 
+Unit upon request to verify the existence and value of any improvements that are 
+claimed by the Inclusionary Unit Owner. 
+2219.9
+An allowance may be made in the Maximum Resale Price for the payment of 
+legal fees, closing costs (including, but not limited to, title insurance and filing 
+fees) and real estate broker or salesperson fees associated with the sale of the 
+Inclusionary Unit if written approval is obtained from DHCD. 
+2219.10
+The value of personal property transferred to a purchaser in connection with the 
+resale of a For Sale Inclusionary Unit shall not be considered part of the sales 
+price of the For Sale Inclusionary Unit for the purposes of determining whether 
+the sales price of the For Sale Inclusionary Unit exceeds the Maximum Resale 
+Price.
+SOURCE: Notice of Final Rulemaking published at 56 DCR 3907 (May 15, 2009); as amended by Final 
+Rulemaking published at 56 DCR 9295, 9296 (December 11, 2009); as amended by Final Rulemaking published at 
+64 DCR 13582 (December 29, 2017). 
+Housing
+14 DCMR § 2219
+

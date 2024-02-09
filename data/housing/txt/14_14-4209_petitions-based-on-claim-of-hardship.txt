@@ -1,0 +1,493 @@
+District of Columbia Municipal Regulations
+ 
+4209 
+PETITIONS BASED ON CLAIM OF HARDSHIP
+4209.1 
+A housing provider who elects not to implement the rent adjustment of general 
+applicability under § 206(b) of the Act in a particular year may petition the Rent 
+Administrator once during the year for a rent adjustment authorized by §§ 206(c) 
+and  212  of  the  Act  (D.C.  Official  Code  §§ 42-3502.06(c)  &  42-3502.12) 
+(“hardship petition”), which shall be in the form of a rent surcharge to increase 
+the housing provider’s rate of return.
+4209.2 
+The total dollar amount of all rent surcharges requested in or allowed by a 
+hardship petition shall be no more than the amount necessary to increase the 
+housing  provider’s  rate  of  return  for  the  housing  accommodation  to  twelve 
+percent (12%), as computed in accordance with § .  The total dollar amount shall 
+be divided between all rental units in the housing accommodation so that the rent 
+surcharge for each unit shall be an equal percentage of the rent charged.
+4209.3 
+A housing provider shall be eligible to file a hardship petition if:
+(a)
+Twelve (12) months have elapsed since the filing of any prior hardship 
+petition for the housing accommodation; and
+(b)
+Nine  (9)  months  have  elapsed  since  the  implementation  of  any  rent 
+increase, including a conditional surcharge under this section, for any 
+rental unit in the housing accommodation.
+4209.4 
+The owner of a housing accommodation situated on property that has been 
+determined  to  be  abandoned  or  a  continuing  nuisance  to  the  immediate 
+surrounding area shall not be eligible to file a hardship petition for that housing 
+accommodation.
+4209.5 
+A housing provider shall file a hardship petition on a form approved by the Rent 
+Administrator (“Hardship Petition Form”).  The submitted Hardship Petition 
+Form shall include the required financial information in the same manner as 
+apartment  income  and  expense  reports  submitted  to  the  Office  of  Tax  and 
+Revenue.
+4209.6 
+The  Hardship  Petition  Form  shall  contain  instructions  for  computing  the 
+following:
+(a)
+The net income of the housing accommodation;
+(b)
+The housing provider’s equity in the housing accommodation;
+(c)
+The rate of return the housing accommodation is yielding on the housing 
+provider’s equity; 
+Housing
+14 DCMR § 4209
+District of Columbia Municipal Regulations
+ 
+(d)
+The percentage of the rent charged for all rental units that shall be used to 
+calculate the amount of the rent surcharge; and
+(e)
+The dollar amount of the rent surcharge that will be applied to each rental 
+unit in the housing accommodation.
+4209.7 
+The accounting method used to calculate the rate of return in a hardship petition 
+shall be cash basis method, irrespective of the method used by the housing 
+provider to file income taxes with the D.C. Office of Tax and Revenue.
+4209.8 
+The rate of return for a housing accommodation shall be the quotient, expressed 
+as a percentage, of:
+(a)
+The net income of the housing accommodation, in accordance with § ; 
+divided by
+(b)
+The  housing  provider’s  equity  in  the  housing  accommodation,  in 
+accordance with § .
+4209.9 
+The net income of a housing accommodation shall be computed for a period of 
+twelve (12) consecutive months within the fifteen (15) months immediately 
+preceding the filing of a hardship petition (“Reporting Period”) and shall be the 
+difference between:
+(a)
+The sum of:
+(1)
+The  maximum  possible  rental  income  for  the  housing 
+accommodation, in accordance with § ; plus
+(2)
+The maximum amount of other income that can be derived from 
+the housing accommodation, in accordance with § ; minus
+(b)
+The sum of:
+(1)
+The operating expenses, in accordance with §§  and 4209.13;
+(2)
+The management fee, if applicable, in accordance with § ;
+(3)
+Property taxes, in accordance with § ;
+(4)
+Depreciation expenses, in accordance with § ;
+(5)
+Vacancy losses, in accordance with § ;
+(6)
+Uncollected rent, in accordance with § ; plus
+Housing
+14 DCMR § 4209
+District of Columbia Municipal Regulations
+ 
+(7)
+Interest payments, in accordance with § .
+4209.10
+The maximum possible rental income for a housing accommodation shall be the 
+sum of the following for all rental units, including those occupied by employees 
+of the housing provider, for each month in the Reporting Period:
+(a)
+The  rents  charged  as  lawfully  calculated  and  filed  with  the  Rental 
+Accommodations  Division  during  the  reporting  period,  plus  the  total 
+amount  of  any  authorized  rent  surcharges,  whether  or  not  actually 
+demanded or received for any reason, including:
+(1)
+Vacancies;
+(2)
+Use of rental units for the housing provider’s business purposes; 
+(3)
+Exemptions for elderly tenants or tenants with a disability under 
+§ 4215; or 
+(4)
+Non-payment of rents; 
+(b)
+The unimplemented amount of any rent ceiling adjustments preserved by 
+§ 206(a) of the Act (D.C. Official Code § 42-35-2.06(a)); and
+(c)
+Any unimplemented rent adjustments of general applicability that were 
+available but not taken by the housing provider during the three (3) years 
+prior to the Reporting Period.
+4209.11
+The maximum amount of other income that can be derived from a housing 
+accommodation during the Reporting Period shall be the sum of all income other 
+than rent that:
+(a)
+Is actually derived from the housing provider’s interest in the housing 
+accommodation, including, but not limited to, fees, commissions, income 
+from vending machines, income from laundry facilities, and income from 
+parking and recreational facilities; and
+(b)
+Can  be  derived  from  the  housing  provider’s  interest  in  the  housing 
+accommodation, if such amounts can be reasonably determined, including, 
+for example, fees for unused parking spaces and recreational facilities.
+4209.12 
+Except as provided by § , the operating expenses of a housing accommodation 
+shall  be  the  ordinary  expenses  required  for  the  operation  of  the  housing 
+accommodation for the Reporting Period, including, but not limited to, expenses 
+for salaries of on-site personnel, supplies, painting, maintenance and repairs, 
+utilities, professional fees, on-site offices, and insurance; provided, that any 
+Housing
+14 DCMR § 4209
+District of Columbia Municipal Regulations
+ 
+expense that is capital in nature shall be amortized or depreciated using the 
+straight-line method over the useful life of the expensed asset.
+4209.13
+The operating expenses of a housing accommodation shall not include:
+(a)
+Membership fees in organizations established to influence legislation and 
+regulation;
+(b)
+Contributions to lobbying efforts;
+(c)
+Contributions for legal fees in the prosecution of class action cases;
+(d)
+Political contributions to candidates for office;
+(e)
+Mortgage principal payments;
+(f)
+Maintenance  expenses  for  which  the  housing  provider  has  been 
+reimbursed by any security deposit, insurance settlement, judgment for 
+damages, agreed-upon payments, or any other method;
+(g)
+Attorney’s  fees  charged  for  services  connected  with  counseling  or 
+litigation  related  to  actions  brought  by  the  District  of  Columbia 
+government due to the housing provider’s repeated failure to comply with 
+applicable  provisions  of  the  Housing  Regulations  as  evidenced  by 
+violation  notices  issued  by  the  Department  of  Buildings  (or  the 
+Department of Consumer and Regulatory Affairs, as applicable); or
+(h)
+Any expenses for which a tenant has lawfully paid directly.
+4209.14
+The management fee of a housing accommodation shall be the amount paid to a 
+managing agent and any pro-rated salaries of off-site employees paid by the 
+housing provider during the Reporting Period, to the extent the duties of the 
+employees are connected with the operation of the housing accommodation, but 
+shall not be more than six percent (6%) of the maximum possible rental income, 
+in accordance with § , unless the housing provider shows that all or part of the 
+excess over six percent (6%) is reasonable in the circumstances.
+4209.15
+The property taxes for a housing accommodation shall be the amount levied by 
+the District government for real property tax on the housing accommodation 
+during the Reporting Period or, if the Reporting Period includes multiple tax 
+years, the pro-rated portion of the real property tax for each tax year within the 
+Reporting Period.
+4209.16
+The depreciation expenses for a housing accommodation shall be any depreciation 
+expenses reflected in decreased real property tax assessments for the housing 
+accommodation, in accordance with § .
+Housing
+14 DCMR § 4209
+District of Columbia Municipal Regulations
+ 
+4209.17
+The  vacancy  losses  for  a  housing  accommodation  shall  be  the  total  of  the 
+maximum, lawful rents for each vacant rental in the housing accommodation that 
+was actively offered for rent during the Reporting Period, as properly filed with 
+the Rental Accommodations Division, during the Reporting Period; provided, 
+that:
+(a)
+No amount shall be included as a vacancy loss for units occupied by a 
+housing provider or his or her employees or otherwise not offered for rent; 
+and
+(b)
+The total amount of the vacancy losses shall not be more than six percent 
+(6%)  of  the  maximum  possible  rental  income  of  the  housing 
+accommodation, in accordance with § , except for good cause shown.
+4209.18
+The uncollected rent for a housing accommodation shall be any amount of rent or 
+other income that can be derived from the housing accommodation that has been 
+lawfully demanded from a tenant thirty (30) days or more prior to the filing of a 
+hardship petition but not received; provided, that a housing provider shall file 
+notice with the Rent Administrator or Office of Administrative Hearings if, at any 
+time prior to the issuance of a final order on the hardship petition, any amount 
+claimed as uncollected rent is received.
+4209.19
+The interest payments for a housing accommodation shall be the amount of 
+interest paid during the Reporting Period on a mortgage or deed of trust on the 
+housing accommodation; provided, that the interest rate on the mortgage or deed 
+of trust is commercially reasonable.
+4209.20
+A housing provider’s equity in a housing accommodation shall be the difference 
+between:
+(a)
+The assessed value of the housing accommodation, in accordance with § ; 
+minus
+(b)
+The total value of all encumbrances on the housing accommodation, in 
+accordance with § .
+4209.21
+The assessed value of a housing accommodation shall be the official assessment 
+of the property by the District government during the Reporting Period or if the 
+Reporting  Period  includes  multiple  tax  years,  the  weighted  average  of  the 
+assessed value for each tax year within the Reporting Period.
+4209.22
+The total value of all encumbrances on a housing accommodation shall include all 
+mortgages, liens, trusts, and secured claims, whether incurred for or directly 
+related to the purchase, the capital improvement, the substantial rehabilitation of 
+Housing
+14 DCMR § 4209
+District of Columbia Municipal Regulations
+ 
+the housing accommodation, or any other financing for the housing provider or 
+another person.
+4209.23
+The Hardship Petition Form shall require a housing provider to list and value all 
+current encumbrances and certify that the status of the property, as presented, is 
+correct and that no encumbrance has been removed temporarily or refinanced, 
+shifted, or otherwise concealed so as to increase the housing provider’s apparent 
+equity in the housing accommodation and thereby lower the apparent rate of 
+return on the housing accommodation.
+4209.24
+The Rent Administrator or the Office of Administrative Hearings may require the 
+housing provider to submit verification of the present or historical status of any 
+encumbrances on the property, and shall require verification of the status of 
+encumbrances if there has been any change in the ownership of the housing 
+accommodation, or the ownership of any business entity with an ownership 
+interest in the housing accommodation, within the three (3) years preceding the 
+filing of the hardship petition.
+4209.25
+A Hardship Petition Form, as filed with Rent Administrator, shall be accompanied 
+by external financial documents to substantiate the income and operating expense 
+schedule  of  the  housing  accommodation.   The  documents  shall  include  the 
+following:
+(a)
+Copies of bills, invoices, statements, or other requests for payment related 
+to the housing accommodation paid during the Reporting Period;
+(b)
+Copies of cancelled checks or other records of electronic transfers for the 
+housing accommodation during the Reporting Period; 
+(c)
+Copies of bank statements for the housing providers;
+(d)
+Copies of ledgers, journals, or other internally generated records of the 
+financial transactions of the housing accommodation during the Reporting 
+Period; and
+(e)
+A  worksheet  in  Microsoft  Excel  or  compatible  format  showing  the 
+expenses paid during the Reporting Period that are substantiated by the 
+accompanying documents.
+4209.26
+Any expense or other deduction listed in § (b) shall be disallowed from the 
+calculation of a housing provider’s net income and rate of return if the housing 
+provider does not prove its entitlement to the deduction by a preponderance of the 
+evidence on the record.
+Housing
+14 DCMR § 4209
+District of Columbia Municipal Regulations
+ 
+4209.27
+At the time a hardship petition is filed, unless filing electronically through the 
+internet-accessible database pursuant to § 3901.15, the housing provider shall 
+submit the following to the Rent Administrator:
+(a)
+Two  (2)  copies  of  the  Hardship  Petition  Form  and  the  financial 
+information required by § ;
+(b)
+Envelopes addressed to the tenant(s) of each rental unit by name for each 
+affected rental unit in the housing accommodation with pre-paid first class 
+postage;
+(c)
+Copies of the certificate of occupancy and housing business license (where 
+applicable), and proof of payment of the annual registration fee; and
+(d)
+A copy of the rent roll.
+4209.28
+After determining, in accordance with § 4208.5, that a hardship petition has been 
+properly filed, the Rent Administrator shall mail notice to each affected rental unit 
+that the petition is under review including:
+(a)
+A copy of the Hardship Petition Form filed by the housing provider;
+(b)
+Notice that the tenants will have the right to contest or oppose the petition 
+by  filing  exceptions  and  objections,  individually  or  through  a  tenant 
+association, and that the housing provider shall have the right to support or 
+defend  the  petition  before  the  Office  of  Administrative  Hearings  as 
+provided by §§ 4208.11 - 4208.17;
+(c)
+A  copy  of  the  form  published  by  the  Rent  Administrator  regarding 
+exemptions from rent surcharges as described in § 4208.10; and
+(d)
+A statement that a conditional rent surcharge may be implemented in 
+accordance with § .
+4209.29
+The Rent Administrator shall promptly and without cost make all supporting 
+documentation for a hardship petition available in electronic format to any tenant 
+of the affected housing accommodation or any person acting on behalf of a tenant. 
+4209.30
+Within  thirty  (30)  days  of  the  filing  of  the  hardship  petition,  the  Rent 
+Administrator  shall  issue  an  audit  report,  prepared  by  a  Certified  Public 
+Accountant, on the hardship petition and the supporting documentation filed in 
+accordance with §  (“Audit Report”) and a proposed order that shall state whether 
+the Audit Report supports the approval of the hardship petition, in whole or in 
+part, and the amount of the rent surcharge for each affected rental unit that would 
+be authorized (“Proposed Order”).
+Housing
+14 DCMR § 4209
+District of Columbia Municipal Regulations
+ 
+4209.31
+Prior  to  the  issuance  of  an  Audit  Report  and  Proposed  Order,  the  Rent 
+Administrator  shall  issue  an  order  staying  or  extending  the  time before  a 
+conditional rent surcharge may be implemented in accordance with §  if the Rent 
+Administrator determines that: 
+(a)
+The housing provider has failed to comply with the requirements of this 
+section  regarding  the  completion  of  the  Hardship  Petition  Form  or 
+submission of supporting documentation; or
+(b)
+Further supporting documentation is necessary to review the validity of 
+the rate of return claimed in the hardship petition.
+4209.32
+If the Rent Administrator has issued a stay or extension order pursuant to §  and 
+the housing provider continuously fails to comply with the requirements of that 
+order, the Rent Administrator may dismiss the hardship petition.
+4209.33
+The Rent Administrator shall serve the housing provider and each affected tenant 
+with the Audit Report and Proposed Order in the same manner and including the 
+same information provided by § , and the housing provider and each affected 
+tenant, or a tenant association representing affected tenants, shall have thirty (30) 
+days to file exceptions and objections to the Audit Report or Proposed Order in 
+accordance with § .
+4209.34
+If no party files exceptions and objections to the Audit Report or Proposed Order 
+within the time provided by § , the Proposed Order shall become final.  If 
+exceptions and objections are filed, the housing provider and each tenant or tenant 
+association that has filed exceptions and objections, shall have the right to a 
+hearing before the Office of Administrative Hearings on the contested issues. 
+4209.35
+Exceptions and objections filed pursuant to §  may contest whether a hardship 
+petition should be approved or denied, in whole or in part, based on the following 
+issues:
+(a)
+The accuracy and verifiability of the income and expense/deduction data 
+used to calculate the net income of the housing accommodation;
+(b)
+The accuracy and verifiability of the financial information used to show 
+the assessed value and encumbrances of the housing accommodation;
+(c)
+The  accuracy  of  the  calculations  made  by  the  housing  provider  in 
+completing the Hardship Petition Form or the Rent Administrator in 
+completing the Audit Report;
+Housing
+14 DCMR § 4209
+District of Columbia Municipal Regulations
+ 
+(d)
+Whether any operating expense is extraordinary and should therefore be 
+excluded or averaged over multiple years, or is capital in nature and 
+should therefore be amortized or depreciated over its useful life;
+(e)
+The existence of a valid registration statement or business license for the 
+housing accommodation;
+(f)
+Whether, as provided by § 4216.4, substantial violations of the Housing 
+Regulations existed on the date the hardship petition was filed and have 
+not been abated on the date of a hearing on the hardship petition; 
+(g)
+Whether the hardship petition was filed as a retaliatory action prohibited 
+by § 502 of the Act (D.C. Official Code § 42-3505.02) and § 4303 of this 
+title; or
+(h)
+Any other violation of the requirements provided by §§ 206(c) or 212 of 
+the Act (D.C. Official Code §§ 42-3502.06(c) or 42-3502.12) or this 
+section.
+4209.36
+After  exceptions  and  objections  have  been  filed  and  a  hardship  petition 
+transferred to the Office of Administrative Hearings, the Administrative Law 
+Judge may issue an order containing findings of fact or conclusions of law as to 
+any issue of error identified by the parties or Administrative Law Judge with 
+respect to the Audit Report and remanding the hardship petition to the Rent 
+Administrator for a revised Audit Report.
+4209.37
+Within ninety (90) days of the filing of a hardship petition that claims a negative 
+net income in accordance with § , if the Office of Administrative Hearings has not 
+issued a final order approving or denying the hardship petition, in whole or in 
+part, or if such an order is stayed by an appeal to the Commission or the District 
+of Columbia Court of Appeals, the housing provider may implement a conditional 
+rent surcharge for each affected rental unit; provided, that any extension of time 
+ordered pursuant to §  shall be added to the number of days after which the 
+housing provider may implement the conditional rent surcharge.
+4209.38
+A conditional rent surcharge authorized by §  shall be no greater than the lesser 
+of:
+(a)
+Five percent (5%) of the rent charged for an affected rental unit; or
+(b)
+The amount authorized by a provisional order issued under § .
+4209.39
+If a hearing has been held on a hardship petition by the Office of Administrative 
+Hearings, the Administrative Law Judge may issue a provisional order approving 
+or denying the petition, in whole or in part, no less than ten (10) days before the 
+expiration of time under § ; provided, that the Administrative Law Judge may 
+Housing
+14 DCMR § 4209
+District of Columbia Municipal Regulations
+ 
+issue an order extending the time provided by §  if he or she determines that the 
+housing provider is responsible for any unreasonable delay in holding a hearing.
+4209.40
+A conditional rent surcharge pursuant § , if allowed, shall be implemented in 
+accordance with §§ 4205.4 and 4205.5, and copies of the sample notice of rent 
+increase and affidavit of service required by § 4205.4(d) shall be transmitted by 
+the Rental Accommodations Division to the Office of Administrative Hearings 
+and entered into the record of the pending hardship petition.
+4209.41
+A tenant may contest the implementation of a conditional rent surcharge under § , 
+but not the merits of the related, pending hardship petition, by filing a separate 
+tenant petition with the Rent Administrator pursuant to § 4214.  In the discretion 
+of the Office of Administrative Hearings, a tenant petition on a conditional 
+surcharge and the related, pending hardship petition may be consolidated or 
+separately adjudicated in order to provide expedited resolution regarding the 
+current rents charged in the housing accommodation.
+4209.42
+If a conditional rent surcharge has been implemented pursuant to § , and a final 
+order of the Rent Administrator, the Office of Administrative Hearings, or a 
+decision by the Commission in an appeal approves only in part or denies the 
+related hardship petition, the housing provider shall immediately implement a rent 
+rollback in the amount by which the conditional surcharge exceeds the approved 
+amount, if any, of the hardship petition, and the housing provider shall, within 
+twenty one (21) days, refund to each affected tenant any excess rent demanded, 
+received, or charged while the hardship petition has been pending, unless a tenant 
+elects in writing within fourteen (14) days to receive the balance owed as a rent 
+credit.  Any agreement to receive a rent credit shall contain an express, written, 
+knowing waiver of the right to receive a rent refund.  A final order approving in 
+part or denying a hardship petition shall constitute a final order to pay any rent 
+refund and implement any rent rollback required by this section.
+4209.43
+Any rent surcharge that is authorized by a final order approving a hardship 
+petition shall be implemented in accordance with § 4205 within twelve (12) 
+months of the date on which the order becomes final, including the exhaustion of 
+any rights of appeal, but no earlier than twelve (12) months following any prior 
+rent increase for an affected rental unit, other than a conditional increase pursuant 
+to this section.  Failure to implement the rent adjustment within twelve (12) 
+months will result in forfeiture of the authorization for adjustment in accordance 
+with § 4204.9(e).
+SOURCE: Notice of Final Rulemaking published at 33 DCR 1336, 1393-1398 (March 7, 1986); as amended by: 
+Notice of Final Rulemaking published at 33 DCR 2656, 2666-67 (May 2, 1986); and Notice of Final Rulemaking 
+published at 33 DCR 3179 (May 23, 1986); as amended by Notice of Final Rulemaking published at 49 DCR 7487 
+(August 2, 2002); as amended by Final Rulemaking published at 68 DCR 012634 (December 3, 2021); as amended 
+by Final Rulemaking published at 70 DCR 001710 (February 3, 2023).
+Housing
+14 DCMR § 4209
+

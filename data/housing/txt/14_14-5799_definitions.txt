@@ -1,0 +1,362 @@
+District of Columbia Municipal Regulations
+ 
+5799
+DEFINITIONS
+5799.1
+When used in this subtitle, the following terms and phrases shall have the 
+meaning ascribed:
+Adjusted Income - is annual income less the following amounts:
+(a)
+Four hundred eighty dollars ($ 480) for each dependent;
+(b)
+Four hundred dollars ($ 400) for any elderly family;
+(c)
+For any family that is not an elderly family but has a handicapped 
+member other than the head of household or spouse, handicapped 
+assistance expenses in excess of three percent (3%) of annual 
+income,  but  this  allowance  shall  not  exceed  the  employment 
+income received by family members who are eighteen (18) years 
+of age or older as a result of the assistance to the handicapped or 
+disabled person;
+(d)
+For any elderly family, one of the following:
+(1)
+That has no handicapped assistance expenses, an allowance 
+for medical expenses equal to the amount by which the 
+medical  expenses  exceed  three  percent  (3%)  of  annual 
+income;
+(2)
+That has handicapped assistance expenses greater than or 
+equal to three percent (3%) of annual income, an allowance 
+for  handicapped  assistance  expenses  computed  in 
+accordance with paragraph (c) of this definition, plus an 
+allowance for medical expenses that is equal to the family's 
+medical expenses; or
+(3)
+That has handicapped assistance expenses that are less than 
+three percent (3%) of annual income, an allowance for 
+combined  handicapped  assistance  expenses  and  medical 
+expenses that is equal to the amount by which the sum of 
+these  expenses  exceeds  three  percent  (3%)  of  annual 
+income; and
+(4)
+Child care expense.
+Annual Contributions Contract (ACC) - The written grant agreement between 
+HUD and a PHA under which HUD agrees to provide funding for a 
+program (e.g., public housing or Housing Choice Vouchers (HCV)) under 
+Housing
+14 DCMR § 5799
+District of Columbia Municipal Regulations
+ 
+the Act, and the PHA agrees to comply with HUD requirements for the 
+program. 
+Annual Income - For purposes of determining annual income for families who 
+are applicants and participants in the  RAD Covered Project, DCHA shall 
+follow HUD requirements as enumerated in 24 CFR § 5.609, as amended.
+Applicant/Applicant Family - a person or a family that has applied for housing 
+assistance as a familial unit.
+Contract Administrator -  HUD or DCHA (under an Annual Contributions 
+Contract with HUD) that executes a HAP Contract with a Project Owner. 
+Contract Rent -  The total amount of rent specified in the HAP Contract as 
+payable to the Project Owner for a unit occupied by an eligible family. In 
+PBV, the contract rent is referred to as “Rent to Owner.”
+Days - calendar days, unless otherwise specified (where a specified number of 
+days ends on a weekend or a holiday, the prescribed period shall end on 
+the next working day following the weekend or holiday).
+DCHA - the District of Columbia Housing Authority.
+Dependent - a member of the family household (excluding foster children) other 
+than the family head of household or spouse who is under eighteen (18) 
+years of age or is a disabled person or handicapped person, or is a full time 
+student.
+Disability – Disability will be defined according to 42 USC § 12102.
+Displaced Person- a person(s) displaced by governmental action, or a person 
+whose dwelling has been extensively damaged or destroyed as a result of 
+disaster declared or otherwise formally recognized pursuant to Federal 
+disaster relief laws.
+Dwelling Lease - a written agreement between a tenant and owner of the RAD 
+Covered project for the use and occupancy of a specific dwelling unit.
+Elderly Family - a family whose head or spouse, or whose sole member, is at 
+least sixty-two (62) years of age, or a person with a disability, and may 
+include two (2) or more elderly persons or persons with disabilities or 
+living  together,  or  one  (1)  or  more  elderly  persons  or  persons  with 
+disabilities living together, or one (1) or more persons living with another 
+person who is determined to be essential to his or her care or wellbeing.
+Emergency Category- Applicants in this category are those who are:
+Housing
+14 DCMR § 5799
+District of Columbia Municipal Regulations
+ 
+(a)
+Involuntarily  displaced  and  not  living  in  standard,  permanent 
+replacement housing (including applicants that are homeless (no 
+fixed address), living in transitional housing, or living in a licensed 
+shelter for the homeless); or the applicant will be involuntarily 
+displaced within no more than six months from the date of any 
+preference status certification by the family or verification of the 
+family's status (An applicant may not qualify for this preference if 
+he/she: (1) refused to comply with applicable polices for locally or 
+federally  assisted  housing  program(s),  including  notice  of  a 
+mandatory transfer issued by DCHA or failure to comply with 
+procedures with respect to the occupancy of under occupied or 
+overcrowded public housing units; or (2) failed to accept a transfer 
+to another housing unit in accordance with a court decree or HUD-
+approved desegregation plan; or (3) was displaced as a result of a 
+DCHA initiated eviction; or (4) voluntarily left public housing in 
+an effort to avoid the public or assisted housing waiting lists by 
+claiming he/she is now in an emergency category status.);
+(b)
+Living  in  substandard  housing  as  determined  by  a  certified 
+inspector pursuant to the building and/or housing codes of the 
+District of Columbia (or other applicable jurisdiction), at the time 
+of preference verification;
+(c)
+Paying more than fifty percent (50%) of income for rent for at least 
+ninety  (90)  days  at  the  time  of  the  preference  verification. 
+(Applicant family may not qualify for this preference if it is paying 
+more than fifty percent (50%) of income for rent because the 
+applicant's housing assistance was terminated as a result of the 
+applicant family's failure to comply with local or federal housing 
+program policies and procedures or if the applicant is paying more 
+than 50% as a result of a DCHA initiated eviction);
+(d)
+Involuntarily  displaced  as  a  victim  of  recent  or  continuing 
+domestic  violence,  i.e.,  actual  or  threatened  physical  violence 
+directed against one or more members of the applicant family by a 
+spouse or other member of the applicant's household;
+(e)
+Involuntarily displaced by recent or continuing hate crimes,  i.e., 
+actual  or  threatened  physical  violence  or  intimidation  that  is 
+directed against a person or his/her property and that is based on 
+Housing
+14 DCMR § 5799
+District of Columbia Municipal Regulations
+ 
+the person's race, color, religion, sex, national origin, disability, 
+sexual orientation, or familial status; or
+(f)
+Involuntarily displaced as a result of inaccessibility of a housing 
+unit  or  a  member  of  applicant  family  has  mobility  or  other 
+impairment that makes the member unable to use critical elements 
+of the unit.
+Family - the following person or persons:
+(a)
+Two (2) or more persons who are either related by blood, marriage 
+or operation of law, or give evidence of a stable relationship which 
+has existed over a period of time;
+(b)
+An elderly family as defined in this chapter (including disabled or 
+handicapped persons);
+(c)
+A single person who is a displaced person as defined in this 
+chapter.
+(d)
+The remaining member(s) of a HMA tenant family; or
+(e)
+A single person who is not an elderly family or a displaced person 
+as defined in this chapter, where approved by HUD pursuant to 24 
+CFR, Part 912.3.
+The term "Family" does not include a non-immigrant student alien (and 
+related family members) as defined by HUD pursuant to § 101(a)(15)(F)(i) 
+of the Immigration and Nationality Act (8 USC § 1101(a)(15)(i).
+Fair Market Rent (FMR) -  The cost in a particular housing market area of 
+privately owned, decent, safe and sanitary rental housing. HUD establishes 
+and publishes in the Federal Register FMRs for dwelling units of varying 
+sizes for each metropolitan area. FMRs are gross rent estimates, i.e., they 
+include the cost of tenant-paid utilities. See 24 CFR part 888 subpart A.
+First Available Unit - An Applicant with an application date earlier than an 
+Applicant on a Site-Based Waiting List at a development with an available 
+unit shall be selected from the waiting list for a unit at that property. For 
+example, an eligible Applicant with an application date of March 1, 2008 
+who has selected the "First Available Unit Option" shall be selected from 
+the waiting list before any eligible Applicant on the Site-Based Waiting 
+List with an application date and time after March 1, 2008. (This assumes 
+that the selection is for the appropriate bedroom size and any other 
+relevant unit features).
+Housing
+14 DCMR § 5799
+District of Columbia Municipal Regulations
+ 
+Full Time Student- a person who is carrying a subject load that is considered full 
+time for day students under the standards and practices of the educational 
+institution  attended.  An  educational  institution  includes  a  vocational 
+school with a diploma or certificate program, as well as an institution 
+offering a college degree.
+Assistance Expenses for Participants with Disabilities- reasonable expenses 
+that  are  anticipated,  during  the  period  for  which  annual  income  is 
+computed, for attendant care and auxiliary apparatus for a family member 
+with  a  disability  and  that  are  necessary  to  enable  a  family  member 
+(including the family member with a disability) to be employed; provided, 
+that  the  expenses  are  neither  paid  to  a  member  of  the  family  nor 
+reimbursed by an outside source.
+Head of Household- the family member who is held responsible and accountable 
+for  the  family  (and  whose  name  is  identified  as  responsible  on  the 
+dwelling lease).
+Housing Assistance Payment (HAP) -  The payment made by the Contract 
+Administrator to the Project Owner of an assisted unit as provided in the 
+HAP Contract. Where the unit is leased to an eligible household, the 
+payment  is  the  difference  between  the  contract  rent  for  a  particular 
+assisted unit and the tenant rent payable by the family. 
+Housing Choice Voucher Program (HCVP) – a program that provides tenant-
+based rental assistance pursuant to Section 8 of the Housing Act of 1937.
+Housing Quality Standards (HQS) - Standards set forth in 24 CFR § 982.401 
+that must be met by all units in the HCV program before assistance can be 
+paid on behalf of a household. The HQS in 24 CFR § 982.401 apply to 
+Project-Based Voucher units, in accordance with 24 CFR § 983.101. 
+Generally, Voucher Agencies must conduct HQS inspections of PBV 
+projects not less than biennially during the term of the HAP Contract. 
+HAP Contract - The contract entered into by the Project Owner and the contract 
+administrator that sets forth the rights and duties of the parties with respect 
+to the Covered Project and the payments under the contract. 
+HUD - the U.S. Department of Housing and Urban Development.
+Leased  Premises -  Leased  Premises  includes  the  Lessee's  dwelling  unit  as 
+specified in the lease and any other buildings or areas that are provided for 
+the exclusive use of the Lessee.
+Housing
+14 DCMR § 5799
+District of Columbia Municipal Regulations
+ 
+Lessee - The "Lessee" is the individual(s) that sign(s) the Lease with the owner of 
+the  RAD  Covered  project.  Each  Lessee  is  individually,  jointly  and 
+severally responsible for performance of all obligations under the lease 
+including, but not limited to, the payment of rent and other charges, as 
+defined herein. No individual, other than the signatory to the lease, is 
+deemed to be a Lessee or have any rights of a Lessee. 
+Low Rent Housing - housing owned by DCHA under the United States Housing 
+Act of 1937.
+Lower Income Family- a family whose annual income does not exceed eighty 
+percent (80%) of the median income for the area, as determined by HUD, 
+with adjustments for smaller and larger families.
+Medical  Expenses -  those  medical  expenses,  including  medical  insurance 
+premiums, that are anticipated during the twelve (12) month period for 
+which annual income is computed, and that are not covered by insurance.
+Mixed Finance Project – A project developed under 24 CFR § 905.604.
+Net Family Assets- the value of equity in real property, savings, stocks, bonds 
+and other forms of capital investments, excluding equity accounts in HUD 
+homeownership  programs.  The  value  of  necessary  items  of  personal 
+property such as furniture and automobiles shall be excluded. (In cases 
+where a trust fund has been established and the trust is not revocable by, 
+or under the control of any member of the family or household, the value 
+of the trust fund will not be considered an asset so long as the fund 
+continues to be held in trust. Any income distributed from the trust fund 
+shall be counted as part of annual income.) In determining net family 
+assets, HMA shall include the value of any assets disposed of by an 
+applicant or tenant for less than fair market value (including a disposition 
+in trust, but not in a foreclosure or bankruptcy sale) during the two (2) 
+years preceding the date of application for admission or reexamination, as 
+applicable, in excess of the consideration received therefore. In the case a 
+disposition as part of a separation or divorce settlement, the disposition 
+shall not be considered to be for less than fair market value if the applicant 
+or tenant receives important consideration not measurable in dollar terms.
+Notice to Correct or Vacate –  a written 30-day notice of termination of the 
+tenancy that advises the Tenant that he/she is in violation of the Lease or 
+DC Housing Code, specifies the violation(s) that form the basis of the 
+notice, and specifies how the Tenant can cure the violations within the 
+time period set forth in the notice.
+Housing
+14 DCMR § 5799
+District of Columbia Municipal Regulations
+ 
+Notice to Vacate – a written 30-day notice of termination of the tenancy that 
+specifies the basis for termination of the tenancy, and specifies the time 
+period by which the Tenant must vacate the premises.
+ 
+Participant (participant family) - A family that has been admitted to a DCHA 
+program and is currently assisted in the program. 
+Person with a Disability- a person with a disability as defined by this section.
+Prepayment - The satisfaction (i.e., payment in full) of the underlying mortgage 
+prior to its maturity date. Prepayment is one of the eligibility triggering 
+events for RAD conversion under Section III of this Notice.
+Private Mixed Finance Project – A Mixed Finance Project whose owner is not 
+substantially  controlled  by  DCHA  or  a  wholly-owned  subsidiary  of 
+DCHA.   For  the  purposes  of  this  definition,  “substantial  control”  is 
+defined as greater than fifty percent (50%) voting power.
+Priority Applicant- an applicant for admission to housing who meets the criteria 
+of § 6105 of this title.
+Project -  For purposes of determining a RAD transaction, a “project” is a 
+structure  or  group  of  structures  that  in  HUD’s  determination  are 
+appropriately  managed  as  a  single  asset.  In  determining  whether  a 
+combination of structures constitute a project, HUD will take into account 
+types of buildings, occupancy, location, market influences, management 
+organization, financing structure or other factors as appropriate. For a 
+RAD PBV conversion, the definition of “project” in 24 CFR § 983.3 
+continues to apply for all references to the term in 24 CFR § 983.
+Project-Based Voucher (PBV) - A component of a PHA’s HCV program, where 
+the PHA attaches voucher assistance to specific housing units through a 
+PBV HAP Contract with an owner. Unlike a tenant-based voucher, the 
+PBV assistance remains attached to the unit when the family moves, and 
+assists the next eligible family to move into the PBV unit. The PBV 
+program is administered by HUD’s Office of Public and Indian Housing.
+Project Owner - For purposes of Sections 5700 through 5775, the term Project 
+Owner refers to the owner of the Covered Project, including but not 
+limited to any owner pursuant to a HAP Contract. For purposes of HAP 
+Contracts, an Owner is a private person, partnership, or entity (including a 
+cooperative), a non-profit entity, a PHA or other public entity, having the 
+legal right to lease or sublease the dwelling units subject to the HAP 
+Contract.  
+Public Housing - see Low Rent Housing.
+Housing
+14 DCMR § 5799
+District of Columbia Municipal Regulations
+ 
+Public  Housing  Advisory  Board  (Resident  Advisory  Board) -  District  of 
+Columbia Public Housing Advisory Board, established by Mayor's Order 
+86-1.
+Public  Housing  Agency  (PHA)  any  HUD-approved  entity  that administers 
+programs under the Housing Act of 1937, which could include public 
+housing and HCVs. In addition to this general definition, the term PHA, as 
+used in this Notice, refers to the owner of a First Component Converting 
+Project (even if the project is a Mixed Finance Project and the PHA does 
+not own ACC units). 
+Public Housing Project -  Per 24 CFR § 905.108 the term ‘‘public housing’’ 
+means  low-income  housing,  and  all  necessary  appurtenances  thereto, 
+assisted under the Act, other than assistance under 42 USC § 1437f of the 
+Act (Section 8). The term ‘‘public housing’’ includes dwelling units in a 
+Mixed Finance Project that are assisted by a PHA with public housing 
+Capital Fund assistance or Operating Fund assistance. When used in 
+reference to public housing, the term ‘‘project’’ means housing developed, 
+acquired, or assisted by a PHA under the Act, and the improvement of any 
+such housing. Each public housing project has a project identification 
+number  in  the  Public  and  Indian  Housing  Information  Center  (PIC), 
+though a PHA may propose to convert individual sites within the public 
+housing project.
+RAD Covered Project - The post-conversion property, including but not limited 
+to buildings, the common areas of the buildings and grounds associated 
+with all the buildings, with assistance converted from one form of rental 
+assistance to another under the Rental Assistance Demonstration.
+Resident - a lessee under the dwelling lease.
+Site-Based Waiting Lists - An Applicant who has applied to be placed on the 
+Site-Based Waiting List at multiple developments will be selected from 
+those respective lists by date and time of application. (This assumes that 
+the selection is for the appropriate bedroom size and any other relevant 
+unit features).
+Tenant - a lessee under the dwelling lease.
+Tenant Rent - the amount payable monthly by a tenant as rent to the owner of the 
+RAD converted project under a dwelling lease as defined in 24 CFR part 
+5. Where all utilities and other essential housing services are supplied the 
+tenant  by  the  owner,  Tenant  Rent  shall  be  the  same  as  total  tenant 
+payment. Where some or all utilities and other essential housing services 
+are not supplied to the tenant by the owner, and the cost is billed directly 
+Housing
+14 DCMR § 5799
+District of Columbia Municipal Regulations
+ 
+to the tenant, Tenant Rent shall be the amount of the total tenant payment 
+less applicable utility allowances. Tenant rent shall be reduced by any 
+amount paid that month by a household member into an Achieving Your 
+Best Life (AYBL) escrow account, until the AYBL contract terminates. 
+See 14 DCMR § 5775.
+TTP - The total tenant payment as calculated pursuant to 24 CFR part 5.
+Uniform Federal Accessibility Standards (UFAS) - Construction standards with 
+minimum requirements for accessibility for dwelling units constructed or 
+substantially altered with the assistance of federal funds as detailed at 24 
+CFR part 8 and the addendums thereto.
+Utility Allowance -  As defined in 24 CFR part 5,  the amount that a PHA or 
+Project Owner determines is reasonable for tenant-paid utility costs. In the 
+case where the utility allowance exceeds the Total Tenant Payment (as 
+defined at 24 CFR § 5.613), the tenant is reimbursed in the amount of such 
+excess. 
+SOURCE:  Final Rulemaking at 64 DCR 12956 (December 22, 2017); as amended by Final Rulemaking published 
+at 66 DCR 6831 (June 7, 2019). 
+Housing
+14 DCMR § 5799
+

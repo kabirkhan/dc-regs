@@ -1,0 +1,12 @@
+1909
+TENANT RENT
+1909.1
+Tenant Rent shall equal the Contract Rent less the Tenant Assistance Payment, when all utilities 
+(except telephone) and other essential services are supplied by the housing provider.
+1909.2
+When some or all utilities (except telephone) and other essential housing services are not 
+supplied by the housing provider and are not included in the Contract Rent, the Tenant Rent shall 
+be the Gross Rent less the Tenant Assistance Payment and the Utility Allowance. Tenant Rent 
+shall not be less than zero (0) dollars.
+SOURCE: Notice of Final Rulemaking published at 33 DCR 4396, 4418 (July 25, 1986).
+

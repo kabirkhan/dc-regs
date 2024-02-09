@@ -1,0 +1,71 @@
+9599
+DEFINITIONS
+9599.1
+Area Median Income
+(a)
+For a household of 4 persons: the area median income for a household of 4 persons in 
+the Washington Metropolitan Statistical Area as set forth in the periodic calculation 
+provided by the United States Department of Housing and Urban Development;
+(b)
+For a household of 3 persons: 90% of the area median income for a household of 4 
+persons;
+(d)
+For a household of 2 persons: 80% of the area median income for a household of 4 
+persons;
+(e)
+For a household of 1 person: 70% of the area median income for a household of 4 
+persons; and
+(f)
+For a household of more than 4 persons: the area median income for a household of 4 
+persons, increased by 10% of the area median income for a family of 4 persons for 
+each household member exceeding 4 persons (e.g., the area median income for a 
+family of 5 shall be 110% of the area median income for a family of 4; the area 
+median income for a household of 6 shall be 120% of the area median income for a 
+family of 4.
+9599.2
+Extremely Low Income Household - an individual or family whose gross income does not exceed 
+30% of the Area Median Income, as adjusted for size of household.
+9599.3
+Housing Choice Voucher Program - the. federal housing program authorized by Section 8 of the 
+United States Housing Act of 1937, approved September 1, 1937 (50 Stat. 888); 42 U.S.C. § 
+1737(f) et seq.; as administered by the District of Columbia Housing Authority.
+9599.4
+Housing Provider - an entity or its affiliate that owns and/or operates a unit receiving LRSP 
+funds.
+9599.5
+Local Rent Supplement Program (LRSP) - the program established under Title II of the Fiscal 
+Year 2007 Budget Support Emergency Act of 2006, effective August 8, 2006 (D.C. Act A16-
+0476; 53 DCR 7068), which is the D.C. Housing Authority Rent Supplement Act of 2006, to 
+provide housing assistance to Extremely Low-Income residents in the District of Columbia, 
+including, but not limited to, those who are homeless and those in need of supportive services, 
+such as elderly individuals or those with disabilities.
+9599.6
+Long Term Subsidy Contract - a long term housing assistance payment contract between DCHA 
+and the owner of building(s) or the Housing Provider receiving LRSP housing assistance; and 
+shall mean the same as the Housing Assistance Payment contract under the HCVP rules and 
+regulations unless specified otherwise in this Chapter.
+9599.7
+Project-Based Housing Assistance - LRSP funds allocated under a Long Term Subsidy Contract 
+and attached to units in a particular building, or set of buildings, owned and operated by a private 
+or non-profit Housing Provider; and shall have the same meaning as "Project-based assistance" 
+under the HCVP rules and regulations unless specified otherwise in this Chapter.
+9599.8
+Rent Supplement Voucher - a document issued by DCHA to households selected for admission to 
+LRSP and shall mean the same as the "Housing Choice Voucher" under the HCVP rules and 
+regulations unless specified otherwise in this Chapter. This document describes the LRSP, the 
+procedures for DCHA's approval of the dwelling unit selected by the household, and shall state 
+the obligations of the household under the LRSP.
+9599.9
+Sponsor-Based Housing Assistance - LRSP funds allocated under a Long Term Subsidy Contract 
+to a particular private or non-profit Housing Provider to subsidize the rent, in units owned and 
+operated by the provider, for the number of households established by the contract.
+9599.10 Supportive Housing - housing provided in connection with voluntary services designed primarily 
+to help tenants maintain housing, including, but not limited to, coordination/case management, 
+physical and mental health, substance use management and recovery support, job training, 
+literacy, and education, youth and children's programs, and money management.
+9599.11 Tenant-Based Housing Assistance - LRSP funds allocated for an individual or family holding a 
+Rent Supplement Voucher issued by DCHA to the individual or family selected for admission by 
+HCVP and shall have the same meaning as "Tenant-Based assistance" under the HCVP rules and 
+regulations unless specified otherwise in this Chapter.
+SOURCE: Final Rulemaking published at 53 DCR 10313 (December 29, 2006).
+
