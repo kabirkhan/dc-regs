@@ -3,6 +3,9 @@ httpx
 rich
 streamlit
 langchain
+langchainhub
 langchain-community
 langchain-openai
 chromadb
+PyMuPDF
+faiss-cpu
