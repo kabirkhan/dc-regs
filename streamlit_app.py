@@ -1,7 +1,7 @@
 import os
 from pathlib import Path
 from operator import itemgetter
-from typing import List
+from typing import List, Optional
 
 from langchain_core.documents import Document
 from langchain_core.output_parsers import StrOutputParser
@@ -64,7 +64,7 @@ class quoted_answer(BaseModel):
 st.set_page_config(page_title="DCRegs Housing Q&A")
 st.title("Washington DC Regulations Housing Q&A")
 
-openai_api_key = st.sidebar.text_input("OpenAI API Key")
+openai_api_key_from_input = st.sidebar.text_input("OpenAI API Key")
 
 
 def format_docs(docs: List[Document]) -> str:
@@ -132,9 +132,28 @@ def generate_response(rag_chain: RunnableSerializable, prompt: str):
     return answer, citations
 
 
+st.cache()
+def get_openai_api_key() -> Optional[str]:
+    from_secret: Optional[str] = None
+    if st.secrets.load_if_toml_exists():
+        from_secret = st.secrets.get("OPENAI_API_KEY")
+    from_env = os.getenv("OPENAI_API_KEY")
+
+    if openai_api_key_from_input.startswith("sk-"):
+        print("Using OpenAI API Key from User Input")
+        return openai_api_key_from_input
+    elif from_secret and from_secret.startswith("sk-"):
+        print("Using OpenAI API Key from Streamlit Secret: 'OPENAI_API_KEY'")
+        return from_secret
+    elif from_env and from_env.startswith("sk-"):
+        print("Using OpenAI API Key from Env Var: 'OPENAI_API_KEY'")
+        return from_env
+
+
 prompt = st.chat_input(placeholder="Ask your question about DC Regulations related to Title 14: Housing...")
 rag_chain = None
-if not openai_api_key.startswith("sk-"):
+openai_api_key = get_openai_api_key()
+if not openai_api_key:
     st.warning("Please enter your OpenAI API key!", icon="⚠")
 else:
     rag_chain = build_rag_chain(openai_api_key=openai_api_key)
