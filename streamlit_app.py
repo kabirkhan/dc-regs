@@ -18,12 +18,17 @@ from langchain.document_loaders.pdf import PyMuPDFLoader
 from langchain_community.vectorstores import Chroma
 from langchain_community.vectorstores import FAISS
 from langchain_core.output_parsers import StrOutputParser
-from langchain_core.runnables import RunnablePassthrough, RunnableParallel, RunnableSerializable
+from langchain_core.runnables import (
+    RunnablePassthrough,
+    RunnableParallel,
+    RunnableSerializable,
+)
 from langchain_openai import ChatOpenAI, OpenAIEmbeddings
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.pydantic_v1 import BaseModel, Field
 from langchain.output_parsers.openai_tools import JsonOutputKeyToolsParser
 import streamlit as st
+
 
 class cited_answer(BaseModel):
     """Answer the user question based only on the given sources, and cite the sources used."""
@@ -76,16 +81,22 @@ def format_docs(docs: List[Document]) -> str:
     return "\n\n" + "\n\n".join(formatted)
 
 
-
 @st.cache_resource()
-def build_rag_chain(openai_api_key: str, data_dir: Path = Path("./data/housing/pdf")) -> RunnableSerializable:
-    loader = DirectoryLoader(str(data_dir), glob="*.pdf", loader_cls=PyMuPDFLoader)
-    docs = loader.load()
-
-    text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=200)
-    splits = text_splitter.split_documents(docs)
-    # vectorstore = Chroma.from_documents(documents=splits, embedding=OpenAIEmbeddings(api_key=openai_api_key))
-    vectorstore = FAISS.load_local("./embeddings/title_14_housing_index/2024-02-09", OpenAIEmbeddings(api_key=openai_api_key))
+def build_rag_chain(
+    openai_api_key: str, data_dir: Path = Path("./data/housing/pdf")
+) -> RunnableSerializable:
+    # This code will Embed and Create the vectorstore from PDFs, skip this and load from disk
+    # saves money and time.
+    #
+    # loader = DirectoryLoader(str(data_dir), glob="*.pdf", loader_cls=PyMuPDFLoader)
+    # docs = loader.load()
+    # text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=200)
+    # splits = text_splitter.split_documents(docs)
+    # vectorstore = FAISS.from_documents(documents=splits, embedding=OpenAIEmbeddings(api_key=openai_api_key))
+    vectorstore = FAISS.load_local(
+        "./embeddings/title_14_housing_index/2024-02-09",
+        OpenAIEmbeddings(api_key=openai_api_key),
+    )
 
     # Retrieve and generate using the relevant snippets of the blog.
     retriever = vectorstore.as_retriever()
@@ -104,7 +115,9 @@ def build_rag_chain(openai_api_key: str, data_dir: Path = Path("./data/housing/p
     )
     llm = ChatOpenAI(model="gpt-3.5-turbo", temperature=0.0, api_key=openai_api_key)
 
-    output_parser = JsonOutputKeyToolsParser(key_name="quoted_answer", return_single=True)
+    output_parser = JsonOutputKeyToolsParser(
+        key_name="quoted_answer", return_single=True
+    )
     llm_with_tool = llm.bind_tools(
         [quoted_answer],
         tool_choice="quoted_answer",
@@ -113,7 +126,8 @@ def build_rag_chain(openai_api_key: str, data_dir: Path = Path("./data/housing/p
     format = itemgetter("docs") | RunnableLambda(format_docs)
     # subchain for generating an answer once we've done retrieval
     answer = prompt | llm_with_tool | output_parser
-    # complete chain that calls wiki -> formats docs to string -> runs answer subchain -> returns just the answer and retrieved docs.
+    # complete chain that calls wiki -> formats docs to string -> runs answer subchain ->
+    # returns just the answer and retrieved docs.
     rag_chain = (
         RunnableParallel(question=RunnablePassthrough(), docs=retriever)
         .assign(context=format)
@@ -128,12 +142,15 @@ def generate_response(rag_chain: RunnableSerializable, prompt: str):
     quoted_answer = res["quoted_answer"]
     answer = quoted_answer["answer"]
     citations = quoted_answer["citations"]
+    docs = res["docs"]
+    return answer, citations, docs
 
-    return answer, citations
 
-
-st.cache()
 def get_openai_api_key() -> Optional[str]:
+    """Load OpenAI api key from the user input if provided. Otherwise,
+    check streamlit secrets (when deployed) for the limited API key or the
+    local env for local dev
+    """
     from_secret: Optional[str] = None
     if st.secrets.load_if_toml_exists():
         from_secret = st.secrets.get("OPENAI_API_KEY")
@@ -150,7 +167,15 @@ def get_openai_api_key() -> Optional[str]:
         return from_env
 
 
-prompt = st.chat_input(placeholder="Ask your question about DC Regulations related to Title 14: Housing...")
+def get_doc_url(doc) -> str:
+    path = doc.metadata["source"]
+    public_url = f"https://github.com/kabirkhan/dc-regs/blob/8a695f827a250862babc70e192ffb598c1bb0df1/{path}"
+    return public_url
+
+
+prompt = st.chat_input(
+    placeholder="Ask your question about DC Regulations related to Title 14: Housing..."
+)
 rag_chain = None
 openai_api_key = get_openai_api_key()
 if not openai_api_key:
@@ -160,8 +185,17 @@ else:
 if prompt and rag_chain is not None:
     with st.chat_message("user"):
         st.write(prompt)
-    answer, citations = generate_response(rag_chain, prompt)
+    answer, citations, docs = generate_response(rag_chain, prompt)
+    doc_urls_to_link = {get_doc_url(doc) for doc in docs}
     with st.chat_message("assistant"):
         st.write(answer)
         for c in citations:
-            st.info(c["quote"])
+            if c["source_id"] < len(docs):
+                citation_source = docs[c["source_id"]]
+                cit_link = get_doc_url(citation_source)
+                doc_urls_to_link.remove(cit_link)
+                st.info(c["quote"])
+                st.markdown(f'Source: [{cit_link.split("/")[-1]}]({cit_link})')
+
+        mkdn = "\n".join([f'* [{url.split("/")[-1]}]({url})' for url in doc_urls_to_link])
+        st.markdown(f"**Other Documents relevant to your question:**\n\n{mkdn}")
