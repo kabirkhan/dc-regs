@@ -193,7 +193,8 @@ if prompt and rag_chain is not None:
             if c["source_id"] < len(docs):
                 citation_source = docs[c["source_id"]]
                 cit_link = get_doc_url(citation_source)
-                doc_urls_to_link.remove(cit_link)
+                if cit_link in doc_urls_to_link:
+                    doc_urls_to_link.remove(cit_link)
                 st.info(c["quote"])
                 st.markdown(f'Source: [{cit_link.split("/")[-1]}]({cit_link})')
 
